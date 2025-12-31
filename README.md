@@ -38,8 +38,8 @@ Demonstrar conhecimentos em desenvolvimento front-end utilizando HTML, CSS, Java
 O site se adapta a diferentes tamanhos de tela (desktop, tablet e mobile), garantindo boa usabilidade em qualquer dispositivo.
 
 ## 🚀 Acesso ao Projeto
-🔗 **Deploy:** https://isaac-ikawa.github.io/Site-de-Portfolio-Front-end-v2.1.3  
-📁 **Repositório:** https://github.com/isaac-ikawa/Site-de-Portfolio-Front-end-v2.1.3
+🔗 **Deploy:** https://github.com/isaac-ikawa/Site-de-Portfolio-Front-end-v2.1.4  
+📁 **Repositório:** https://isaac-ikawa.github.io/Site-de-Portfolio-Front-end-v2.1.4/
 
 ---
 Desenvolvido por **Isaac Ikawa** 👨‍💻
